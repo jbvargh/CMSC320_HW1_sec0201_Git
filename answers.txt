@@ -5,3 +5,8 @@ Answer: We want to use Git for version control
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: A good example of a field data science could be applied to is psychology. For example, when studies are conducted, there needs to be some data cleaning done on the results of each study.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging meshes changes together while rebasing get tacked onto the end of the file you're rebasing.
+
