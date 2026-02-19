@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: A good example of a field data science could be applied to is psychology. For example, when studies are conducted, there needs to be some data cleaning done on the results of each study.
