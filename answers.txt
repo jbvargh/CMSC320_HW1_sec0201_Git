@@ -1,3 +1,7 @@
 Q1: Why might we consider using Git?
 
 Answer: We want to use Git for version control
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: A good example of a field data science could be applied to is psychology. For example, when studies are conducted, there needs to be some data cleaning done on the results of each study.
